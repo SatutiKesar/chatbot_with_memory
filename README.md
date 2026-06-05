@@ -19,7 +19,7 @@ A clean, responsive, and state-aware conversational chatbot application built us
 chatbot_project/
 │
 ├── app.py                 # The Streamlit Frontend UI & Chat Logic
-├── .env                   # Local environment file containing your Gemini API key
+├── .env                   # Local environment file containing Gemini API key
 ├── requirements.txt       # Python package dependencies
 └── venv/                  # Isolated Python Virtual Environment
 
