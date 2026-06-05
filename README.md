@@ -23,9 +23,3 @@ chatbot_project/
 ├── requirements.txt       # Python package dependencies
 └── venv/                  # Isolated Python Virtual Environment
 
-## 📷 Application Interface
-
-<img width="1920" height="1080" alt="Screenshot 2026-06-05 110552" src="https://github.com/user-attachments/assets/9a6e8a78-7d6e-47ad-8c69-9defa02f5213" />
-
-
-<img width="1920" height="1080" alt="Screenshot 2026-06-05 110653" src="https://github.com/user-attachments/assets/6bc57e3e-de96-4aca-a8aa-a66280cf0ba9" />
